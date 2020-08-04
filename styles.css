@@ -47,6 +47,16 @@ body {
   background-color: yellow;
 }
 
+.start{
+  background-color: #011F3F;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+  width: fit-content;
+  margin: 3rem auto 4rem;
+}
+
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
